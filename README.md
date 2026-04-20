@@ -2,7 +2,9 @@
 
 This project implements a machine learning–based dynamic pricing system designed to optimize product or service prices based on historical sales, customer behavior, and market trends. The goal is to maximize revenue by predicting price points that adjust in response to real-world demand signals.
 
-### Objective • Build a dynamic pricing model that adapts to customer behavior and market conditions • Use machine learning to predict optimal prices for products or services • Improve revenue and profitability through automated pricing strategy
+### Objective 
+
+• Build a dynamic pricing model that adapts to customer behavior and market conditions • Use machine learning to predict optimal prices for products or services • Improve revenue and profitability through automated pricing strategy
 
 ### Dataset Overview
 
