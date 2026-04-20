@@ -1,14 +1,16 @@
 # Dynamic_pricing
 
-Overview:
+### Overview:
 
 This project implements a dynamic pricing system using machine learning techniques to optimize pricing strategies based on customer behavior and market trends. The goal is to analyze historical sales and customer data to predict optimal pricing for products or services to maximize revenue and profitability.
 
-Project Description:
+
+
+### Project Description:
 
 The dynamic pricing system leverages machine learning models to predict optimal prices for products or services. 
 
-The project includes:
+### The project includes:
 
 Data Collection: Gathering historical sales and customer data.
 
@@ -22,7 +24,9 @@ Model Evaluation: Assessing model performance and accuracy.
 
 Implementation: Deploying the model to adjust pricing dynamically based on real-time data.
 
-Data Description:
+
+
+### Data Description:
 
 The dataset used in this project includes:
 
@@ -40,7 +44,9 @@ Market_Conditions: External factors affecting pricing (e.g., seasonality, compet
 
 Historical_Pricing: Historical pricing data for trend analysis
 
-Results:
+
+
+### Results:
 
 
 Data Preprocessing: Cleaned and prepared data for model training.
@@ -53,8 +59,9 @@ Model Evaluation: Evaluated model performance using metrics like Mean Absolute E
 
 Implementation: Deployed the model to adjust prices dynamically, resulting in optimized pricing strategies and increased revenue.
 
-Tools and Technologies:
 
+
+### Tools and Technologies:
 
 Programming Language: Python
 
